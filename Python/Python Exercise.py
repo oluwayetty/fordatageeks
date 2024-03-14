@@ -64,3 +64,16 @@ otherwise, it tell thems to input a palindrome.
 A palindrome is word, phrase, or sequence that reads the same backwards as forwards,
 e.g. madam, 112211.
 '''
+
+# LEVEL 3 (FUNCTIONS)
+'''
+Create a list of numbers and find the sum and average.
+Based on the exercise you've done before, write a function that takes a list as its arguments
+and returns the sum of the elements in that list. 
+'''
+
+'''
+Using the palindrome code, write a function that takes in an argument and checks if it's a palindrome.
+If it's a palindrome, the function returns Yes, otherwise, it returns No.
+'''
+
